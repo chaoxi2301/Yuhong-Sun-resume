@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sun Yuhong - Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: "Times New Roman", "Microsoft Yahei", serif;
+            background-color: #ffffff;
+            color: #222222;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 0 30px;
+            line-height: 1.65;
+        }
+        h1 {
+            font-size: 32px;
+            text-align: center;
+            margin-bottom:12px;
+        }
+        .contact-info{
+            text-align:center;
+            font-size:15px;
+            margin-bottom:32px;
+            color:#333333;
+        }
+        h2{
+            font-size:19px;
+            border-bottom:1.5px solid #333;
+            padding-bottom:4px;
+            margin:28px 0 14px;
+            text-transform: uppercase;
+            letter-spacing:1px;
+        }
+        .item-header{
+            display:flex;
+            justify-content:space-between;
+            font-weight:bold;
+            margin-bottom:6px;
+        }
+        ul{
+            padding-left:22px;
+            margin-bottom:10px;
+        }
+        li{
+            margin-bottom:6px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sun Yuhong</h1>
+    <div class="contact-info">
+        Room 326, Building 30, Hangzhou Dianzi University, No 1158 Ave 2,Qiantang District, Hangzhou, Zhejiang Province, China, 310018<br>
+        +86 18798619664 &nbsp;|&nbsp; Email: 2637669289@qq.com
+    </div>
+
+    <h2>Education</h2>
+    <div class="item-header">
+        <span>Hangzhou Dianzi University，Hangzhou, China</span>
+        <span>September 2024 – June 2028 (Expected)</span>
+    </div>
+    <p>Major: English</p>
+    <p>Weighted Average: 4.0/5.0</p>
+
+
+    <h2>Internship Experience</h2>
+    <div class="item-header">
+        <span>Personal Tutoring, Hangzhou, China</span>
+        <span>September 2024 – December 2025</span>
+    </div>
+    <p>Tutor for Elementary, Middle, and High School Students</p>
+    <ul>
+        <li>Tutored 7 students in subjects including Chinese, Math, and English</li>
+        <li>Assisted students in previewing and reviewing school curriculum, and prepared supplementary materials to reinforce learning</li>
+        <li>Provided psychological counseling and academic guidance to students</li>
+    </ul>
+
+
+    <h2>Extracurricular Activities</h2>
+    <div class="item-header">
+        <span>Organization Department, Youth League Committee, Officer</span>
+    </div>
+    <ul>
+        <li>Assisted in organizing various Youth League activities, responsible for managing member files and collecting membership dues</li>
+        <li>Participated in planning and executing themed league day activities to strengthen ideological guidance among members</li>
+    </ul>
+
+    <div class="item-header">
+        <span>Class, Vice Monitor</span>
+    </div>
+    <ul>
+        <li>Assisted the monitor in managing daily class affairs and coordinating the work of class committees</li>
+        <li>Organized class collective activities to enhance class cohesion and promptly reported student feedback to the head teacher</li>
+    </ul>
+
+    <div class="item-header">
+        <span>Communist Youth League Member</span>
+    </div>
+    <ul>
+        <li>Actively participated in league organizational activities, fulfilled member obligations, and played an exemplary role</li>
+    </ul>
+
+
+    <h2>Awards</h2>
+    <ul>
+        <li>2024 World Chinese Composition Competition National Second Prize, 2024</li>
+        <li>Winter Vacation Practice Activity College Second Prize, 2025</li>
+    </ul>
+
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Language Proficiency: Native in Mandarin; Proficient in English</li>
+        <li>Software Skills: Proficient in WPS Office</li>
+    </ul>
+
+</body>
+</html>
